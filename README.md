@@ -117,9 +117,9 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`inkscape` (Cask)](https://formulae.brew.sh/cask/inkscape) (Vector graphics editor)
 
 ## CAD
-
-- [`prusaslicer` (Cask)](https://formulae.brew.sh/cask/prusaslicer) (3D slicer)
+- [`orcaslicer` (Cask)](https://formulae.brew.sh/cask/orcaslicer) (3D slicer)
 - [`openscad` (Cask)](https://formulae.brew.sh/cask/openscad) (Programmable CAD modeler)
+  
 
 ## Gaming
 
